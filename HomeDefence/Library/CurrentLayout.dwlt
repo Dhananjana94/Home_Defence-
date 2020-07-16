@@ -91,7 +91,7 @@ MonoBehaviour:
   m_MinSize: {x: 913, y: 442}
   m_MaxSize: {x: 22008, y: 10021}
   vertical: 0
-  controlID: 21
+  controlID: 92
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -254,8 +254,8 @@ MonoBehaviour:
     y: 392
     width: 712
     height: 339
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -289,9 +289,9 @@ MonoBehaviour:
     height: 710
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: a4290000
     m_LastClickedID: 0
-    m_ExpandedIDs: eef2ffffe6fbffff00000000
+    m_ExpandedIDs: 5457ffffd079ffffa8f0ffffe6fbffff0000000048270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,10 +386,10 @@ MonoBehaviour:
     m_Folders:
     - Assets
   m_ViewMode: 1
-  m_StartGridSize: 64
+  m_StartGridSize: 60
   m_LastFolders:
   - Assets
-  m_LastFoldersGridSize: -1
+  m_LastFoldersGridSize: 60
   m_LastProjectPath: D:\Unity\game\Home_Defence-\HomeDefence
   m_IsLocked: 0
   m_FolderTreeState:
@@ -477,7 +477,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 64
+    m_GridSize: 60
   m_DirectoriesAreaWidth: 110
 --- !u!114 &15
 MonoBehaviour:
@@ -582,14 +582,14 @@ MonoBehaviour:
     width: 710
     height: 371
   m_SceneLighting: 1
-  lastFramingTime: 2246.5648021343895
+  lastFramingTime: 6403.82550469371
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 23.912601, y: 1.1258011, z: -46.027557}
+    m_Target: {x: 42.583515, y: -6.375, z: -26.12411}
     speed: 2
-    m_Value: {x: 23.912601, y: 1.1258011, z: -46.027557}
+    m_Value: {x: 42.583515, y: -6.375, z: -26.12411}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -612,17 +612,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.38928884, y: 0.012979052, z: -0.0054888795, w: -0.9210156}
+    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: -0.3892861, y: 0.012978961, z: -0.005488841, w: -0.9210091}
+    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_Size:
-    m_Target: 122.13804
+    m_Target: 66.04827
     speed: 2
-    m_Value: 122.13804
+    m_Value: 66.04827
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_LastSceneViewRotation: {x: 0.22975296, y: 0, z: 0, w: 0.973249}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
